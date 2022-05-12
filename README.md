@@ -1,6 +1,10 @@
-# ESPHome DeepSleep Enabled Device Code Update through OTA 
+# Tool to Automate ESPHome DeepSleep Enabled Devices Update through OTA 
 
-This is a Python script to automate the update of an ESPHome device that is using DeepSleep.
+[NOT READY YET - IN DEVELOPMENT]
+
+This is Python scripts to automate the update of ESPHome devices that are using DeepSleep.
+
+THIS DOCUMENTATION IS OUT OF DATE. Will be updated soon.
 
 The script requires the following call parameters:
   - The device name. The name must be related to an ESPHome-managed device.
